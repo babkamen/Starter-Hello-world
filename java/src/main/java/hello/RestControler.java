@@ -11,6 +11,6 @@ public class RestControler {
 
     @RequestMapping("/hello")
     public String hello() {
-        return  "hello";
+        return  "world";
     }
 }
