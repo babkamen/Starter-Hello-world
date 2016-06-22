@@ -1,1 +1,1 @@
-web:    java -jar target/spring-hello-world-0.1.0.jar
+web:   mvn spring-boot:run
